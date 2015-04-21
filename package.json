@@ -58,7 +58,8 @@
   },
   "peerDependencies": {
     "lodash": ">2.4.0",
-    "sails": ">0.10.0"
+    "sails": ">0.10.0",
+    "sails.io.js": ">0.11.5" 
   },
   "engines": {
     "node": ">= 0.10",
